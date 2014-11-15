@@ -1,0 +1,7 @@
+{
+  "db": {
+    "name": "helloDb",
+    "connector": "mongodb",
+    "database": "accounts"
+  }
+}
